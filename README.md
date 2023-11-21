@@ -25,7 +25,7 @@ Eclipse + JSP 쇼핑몰 사이트 입니다.
 - DB : Oracle 19
 
 ## 👨🏻‍💻 담당 기능
-문의 관련 - [상세보기] Wiki 링크 추가 예정
+문의 관련 - [상세보기](https://github.com/psh153/pt1/wiki/%EB%AC%B8%EC%9D%98-%EA%B4%80%EB%A0%A8")
  - 사이트 문의
  - 상품 문의
  - 내 문의
