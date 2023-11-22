@@ -1,6 +1,9 @@
 # pt1
 Eclipse + JSP 쇼핑몰 사이트 입니다.
 
+>메인화면 
+<img width="1680" alt="main" src="https://github.com/psh153/pt1/assets/105466406/b772c35b-9d8a-4962-9c1a-46709e89ae3d">
+
 ## 🎤 프로젝트 소개
 첫 웹 프로젝트로 진행하게 된 쇼핑몰 프로젝트 입니다.
 
@@ -39,3 +42,14 @@ Eclipse + JSP 쇼핑몰 사이트 입니다.
 ---
 
 ### 그 외 📣
+<details>
+<summary>1차 프로젝트 시상</summary>
+ 
+<img width="1475" alt="1" src="https://github.com/psh153/pt1/assets/105466406/131793b0-9738-4e35-af6c-2483e44eebac">
+</details>
+
+<details>
+<summary>팀장님의 평가 카톡</summary>
+ 
+![IMG_7890](https://github.com/psh153/pt1/assets/105466406/aa677319-5dac-4a8e-9d57-4974493b3666)
+</details>
