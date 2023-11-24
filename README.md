@@ -49,7 +49,7 @@ Eclipse + JSP 쇼핑몰 사이트 입니다.
 </details>
 
 <details>
-<summary>팀장님의 평가 카톡</summary>
+<summary>팀장님의 카톡</summary>
  
 ![IMG_7890](https://github.com/psh153/pt1/assets/105466406/aa677319-5dac-4a8e-9d57-4974493b3666)
 </details>
