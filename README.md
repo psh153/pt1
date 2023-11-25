@@ -48,8 +48,3 @@ Eclipse + JSP 쇼핑몰 사이트 입니다.
 <img width="1475" alt="1" src="https://github.com/psh153/pt1/assets/105466406/131793b0-9738-4e35-af6c-2483e44eebac">
 </details>
 
-<details>
-<summary>팀장님의 카톡</summary>
- 
-![IMG_7890](https://github.com/psh153/pt1/assets/105466406/aa677319-5dac-4a8e-9d57-4974493b3666)
-</details>
