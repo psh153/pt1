@@ -42,6 +42,12 @@ Eclipse + JSP 쇼핑몰 사이트 입니다.
 ---
 
 ### 그 외 📣
+
+<details>
+<summary>프로젝트 후기</summary>
+ 
+<img width="1475" alt="1" src="https://github.com/psh153/pt1/assets/105466406/c68a499e-e48a-4262-b700-045387323d8b">
+</details>
 <details>
 <summary>1차 프로젝트 시상</summary>
  
